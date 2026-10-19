@@ -1,2 +1,2 @@
 # content-idea-manager
-A beginner project for collecting and managing content ideas
+A beginner project for managing content ideas
